@@ -2,7 +2,7 @@
 % A simple pendulum is one which can be considered to be a point mass 
 % suspended from a string or rod of negligible mass. 
 % It is a resonant system with a single resonant frequency. 
-
+%22:34
 % Declare variables
 clf;
 fps=30;
