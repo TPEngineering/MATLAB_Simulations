@@ -4,7 +4,9 @@
 % It is a resonant system with a single resonant frequency. 
 %22:34
 % Declare variables
+
 clf;
+
 fps=30;
 simtime=10;
 totalframes=fps*simtime;
